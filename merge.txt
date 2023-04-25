@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+welcome to naresh-it
+content to append
+=======
+totally different content by dev-1
+>>>>>>> new-branch
